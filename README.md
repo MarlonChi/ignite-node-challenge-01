@@ -16,8 +16,10 @@ npm run dev
 
 ### Rotas
 
-GET - /tasks
-POST - /tasks
-PUT - /tasks/:id
-DELETE - /tasks/:id
-PATCH - /tasks/:id/complete
+<ul>
+  <li>GET - /tasks</li>
+  <li>POST - /tasks</li>
+  <li>PUT - /tasks/:id</li>
+  <li>DELETE - /tasks/:id</li>
+  <li>PATCH - /tasks/:id/complete</li>
+</ul>
